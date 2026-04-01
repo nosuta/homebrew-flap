@@ -4,7 +4,7 @@ class Flap < Formula
   desc "CLI for Go inside Flutter"
   homepage "https://github.com/nosuta/flap"
   url "https://github.com/nosuta/flap/archive/refs/tags/#{VERSION}.tar.gz"
-  sha256 "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+  sha256 "6fd8f2a1fc4a7e1c9c97408f9218486f3f5ce8dda497575ce78711902194183f"
   license "Apache-2.0"
 
   depends_on "go" => :build
